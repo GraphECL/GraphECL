@@ -17,4 +17,4 @@ sh heterophilous/run.sh
 sh heterophilous/run_ind.sh
 ```
 
-Details about the large-scale datasets will be released to the public upon acceptance
+More details about the large-scale datasets will be released to the public upon acceptance
